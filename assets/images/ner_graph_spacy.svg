@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="697.14496"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-351.693573 -339.618744 697.144958 677.752930" height="677.7529"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Alia id_LOC"
+              d="M 332.522675,-33.485352 A 167.251084,167.251084 0,0 1,293.399536,152.543076"
+              stroke="#f97743" stroke-width="0.049180325" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_ORG"
+              d="M 329.381958,-34.391918 A 237.513444,237.513444 0,0 1,80.271637,-22.973986"
+              stroke="#f97743" stroke-width="2.9508195" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Arrakeen id_GPE"
+              d="M -157.312485,-161.546417 A 82.215986,82.215986 0,0 1,-193.107788,-93.481354"
+              stroke="#28b36a" stroke-width="2.9076922" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Arrakeen id_ORG"
+              d="M -154.794632,-164.411484 A 196.625969,196.625969 0,0 1,27.083765,-81.066757"
+              stroke="#909556" stroke-width="0.09230769" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Arrakis id_GPE"
+              d="M -131.930511,-24.912519 A 86.596587,86.596587 0,0 1,-203.441544,-62.579872"
+              stroke="#61a4a7" stroke-width="0.06994818" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Arrakis id_ORG"
+              d="M -124.716408,-27.841955 A 146.363532,146.363532 0,0 1,9.139938,-60.891460"
+              stroke="#c98694" stroke-width="0.42746112" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Arrakis id_PERSON"
+              d="M -123.621651,-24.694004 A 89.680147,89.680147 0,0 1,-69.800949,0.533771"
+              stroke="#9a96e5" stroke-width="2.5025907" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Atreides id_PERSON"
+              d="M -66.453835,330.392761 A 239.880158,239.880158 0,0 1,-73.972580,85.078018"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bene_Gesserit id_ORG"
+              d="M 226.300018,241.974930 A 284.279265,284.279265 0,0 1,46.281322,-5.077407"
+              stroke="#c98694" stroke-width="0.12244897" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bene_Gesserit id_PERSON"
+              d="M 226.126572,242.934662 A 282.098937,282.098937 0,0 1,-26.361814,90.393631"
+              stroke="#9a96e5" stroke-width="2.8775508" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_CHOAM id_ORG"
+              d="M 231.158401,-4.696028 A 158.150896,158.150896 0,0 1,76.847298,-18.572174"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Caladan id_GPE"
+              d="M -127.736588,-300.999664 A 197.925738,197.925738 0,0 1,-195.016479,-96.670769"
+              stroke="#28b36a" stroke-width="1.9180328" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Caladan id_ORG"
+              d="M -124.911919,-303.623810 A 261.003128,261.003128 0,0 1,45.483482,-86.090950"
+              stroke="#909556" stroke-width="0.59016395" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Caladan id_PERSON"
+              d="M -125.649933,-302.334717 A 299.155262,299.155262 0,0 1,-29.332897,-3.264980"
+              stroke="#61a4a7" stroke-width="0.49180326" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Castle_Caladan id_ORG"
+              d="M 69.036835,-331.875000 A 239.964412,239.964412 0,0 1,70.686722,-78.212273"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_LOC"
+              d="M 43.991291,323.845154 A 246.260036,246.260036 0,0 1,275.088867,159.344360"
+              stroke="#c98694" stroke-width="0.037499998" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_ORG"
+              d="M 40.204639,324.409882 A 311.162758,311.162758 0,0 1,24.145044,-11.905005"
+              stroke="#c98694" stroke-width="0.05625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_PERSON"
+              d="M 39.293064,325.313293 A 247.485698,247.485698 0,0 1,-57.264679,92.664597"
+              stroke="#9a96e5" stroke-width="2.90625" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Corrino id_PERSON"
+              d="M -31.176458,136.670349 A 78.687830,78.687830 0,0 1,-53.383102,93.459763"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_GPE"
+              d="M -206.161346,-247.889450 A 141.216552,141.216552 0,0 1,-201.018448,-102.484253"
+              stroke="#28b36a" stroke-width="2.0684211" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_NORP"
+              d="M -204.574539,-255.768143 A 375.009802,375.009802 0,0 1,236.639221,-228.588196"
+              stroke="#909556" stroke-width="0.015789473" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_ORG"
+              d="M -203.653046,-252.369141 A 274.402608,274.402608 0,0 1,33.864956,-84.035767"
+              stroke="#909556" stroke-width="0.015789473" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duncan_Idaho id_PERSON"
+              d="M -204.175079,-250.232681 A 282.585209,282.585209 0,0 1,-42.807816,-5.820101"
+              stroke="#61a4a7" stroke-width="0.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Dune id_LOC"
+              d="M 324.308350,71.281693 A 83.103336,83.103336 0,0 1,294.213562,153.581726"
+              stroke="#f97743" stroke-width="0.59999996" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Dune id_ORG"
+              d="M 319.326416,68.251221 A 249.017324,249.017324 0,0 1,70.249718,-12.653871"
+              stroke="#f97743" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Dune id_PERSON"
+              d="M 319.866333,69.489822 A 307.817930,307.817930 0,0 1,-4.743508,73.364830"
+              stroke="#c98694" stroke-width="0.59999996" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fenring id_GPE"
+              d="M -231.702866,17.194458 A 86.736002,86.736002 0,0 1,-228.223129,-65.120827"
+              stroke="#61a4a7" stroke-width="0.46153846" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fenring id_PERSON"
+              d="M -228.278931,18.253956 A 155.726109,155.726109 0,0 1,-86.153450,15.294619"
+              stroke="#9a96e5" stroke-width="2.5384614" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Feyd_Rautha id_LOC"
+              d="M 221.208450,-105.433578 A 229.996787,229.996787 0,0 1,289.395203,149.755020"
+              stroke="#f97743" stroke-width="0.026666665" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Feyd_Rautha id_ORG"
+              d="M 215.676788,-104.624313 A 151.982479,151.982479 0,0 1,86.654259,-39.132721"
+              stroke="#f97743" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Feyd_Rautha id_PERSON"
+              d="M 216.332397,-104.265030 A 253.431336,253.431336 0,0 1,4.692050,45.146351"
+              stroke="#c98694" stroke-width="1.1733333" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fremen id_ORG"
+              d="M 203.376404,94.148659 A 176.702492,176.702492 0,0 1,59.451649,-7.149173"
+              stroke="#c98694" stroke-width="0.24" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fremen id_PERSON"
+              d="M 203.613022,95.466293 A 213.517346,213.517346 0,0 1,-7.824067,77.220016"
+              stroke="#9a96e5" stroke-width="2.76" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Giedi_Prime id_NORP"
+              d="M 138.078064,-189.169815 A 91.881818,91.881818 0,0 1,235.807831,-226.986588"
+              stroke="#f97743" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Giedi_Prime id_ORG"
+              d="M 136.836243,-184.437469 A 139.694132,139.694132 0,0 1,82.094559,-65.230690"
+              stroke="#f97743" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Guild_Bank id_ORG"
+              d="M 161.118683,-289.014160 A 224.826270,224.826270 0,0 1,80.541977,-67.802551"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_GPE"
+              d="M -137.937408,188.983719 A 238.288310,238.288310 0,0 1,-220.994492,-61.241192"
+              stroke="#61a4a7" stroke-width="0.024390243" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_ORG"
+              d="M -134.564804,187.359146 A 248.732341,248.732341 0,0 1,8.681350,-31.468765"
+              stroke="#c98694" stroke-width="0.009756098" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_PERSON"
+              d="M -134.987854,187.373215 A 143.636087,143.636087 0,0 1,-87.730576,70.564484"
+              stroke="#9a96e5" stroke-width="2.9658537" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harah id_PERSON"
+              d="M -218.882736,124.898582 A 160.218461,160.218461 0,0 1,-95.239433,41.711571"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harkonnen id_GPE"
+              d="M -69.032143,-206.924347 A 161.491324,161.491324 0,0 1,-190.968109,-86.646477"
+              stroke="#909556" stroke-width="0.16744186" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harkonnen id_ORG"
+              d="M -64.189690,-209.624619 A 167.765204,167.765204 0,0 1,43.248169,-85.964333"
+              stroke="#f97743" stroke-width="1.4790697" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harkonnen id_PERSON"
+              d="M -65.369118,-207.864700 A 213.434923,213.434923 0,0 1,-24.142370,-1.186267"
+              stroke="#c98694" stroke-width="1.3534883" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Irulan id_PERSON"
+              d="M 148.871017,176.635574 A 196.566752,196.566752 0,0 1,-23.167591,88.953949"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Jessica id_PERSON"
+              d="M 60.607296,221.008865 A 172.476024,172.476024 0,0 1,-43.082039,94.068779"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Landsraad id_LOC"
+              d="M 142.915405,297.568756 A 167.156429,167.156429 0,0 1,275.229126,161.234329"
+              stroke="#c98694" stroke-width="0.28571427" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Landsraad id_PERSON"
+              d="M 140.042648,299.356384 A 264.583908,264.583908 0,0 1,-41.099182,93.941322"
+              stroke="#9a96e5" stroke-width="2.7142856" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_ORG"
+              d="M 122.008232,28.271534 A 89.660031,89.660031 0,0 1,62.216404,-8.182715"
+              stroke="#c98694" stroke-width="1.2987478" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_PERSON"
+              d="M 122.635635,30.323198 A 142.141807,142.141807 0,0 1,1.215858,62.462349"
+              stroke="#9a96e5" stroke-width="1.7012522" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_GPE"
+              d="M 25.921303,-131.876328 A 207.722414,207.722414 0,0 1,-192.312897,-74.790916"
+              stroke="#909556" stroke-width="0.006263048" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_NORP"
+              d="M 32.683689,-141.094864 A 190.381856,190.381856 0,0 1,235.776199,-226.859802"
+              stroke="#f97743" stroke-width="0.10020877" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_ORG"
+              d="M 33.820095,-132.127640 A 76.783883,76.783883 0,0 1,54.381680,-85.364594"
+              stroke="#f97743" stroke-width="1.4906054" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_PERSON"
+              d="M 31.055389,-130.577148 A 162.729753,162.729753 0,0 1,-6.644035,12.401646"
+              stroke="#c98694" stroke-width="1.4029227" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul id_GPE"
+              d="M -44.783142,234.301453 A 303.624586,303.624586 0,0 1,-216.307892,-60.239853"
+              stroke="#61a4a7" stroke-width="0.004257332" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul id_LOC"
+              d="M -35.864872,232.361832 A 278.498651,278.498651 0,0 1,275.880707,155.516174"
+              stroke="#c98694" stroke-width="0.0028382214" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul id_ORG"
+              d="M -41.473164,231.315018 A 246.005392,246.005392 0,0 1,16.017195,-19.081387"
+              stroke="#c98694" stroke-width="0.02128666" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paul id_PERSON"
+              d="M -43.082382,232.184402 A 160.586580,160.586580 0,0 1,-67.384048,88.975197"
+              stroke="#9a96e5" stroke-width="2.9716177" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_GPE"
+              d="M -329.653931,10.736967 A 127.075254,127.075254 0,0 1,-236.728516,-79.879524"
+              stroke="#61a4a7" stroke-width="0.11392405" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_ORG"
+              d="M -327.753448,11.801025 A 318.433495,318.433495 0,0 1,9.681342,-62.157112"
+              stroke="#c98694" stroke-width="0.03797468" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_PERSON"
+              d="M -327.080261,12.661351 A 239.060965,239.060965 0,0 1,-85.366180,14.209852"
+              stroke="#9a96e5" stroke-width="2.8481011" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rabban id_PERSON"
+              d="M -127.143639,80.221115 A 75.214428,75.214428 0,0 1,-94.953125,49.975021"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Salusa_Secundus id_ORG"
+              d="M 124.193115,-74.914932 A 70.812477,70.812477 0,0 1,87.158295,-46.661869"
+              stroke="#f97743" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Salusa_Secundus id_PERSON"
+              d="M 124.770279,-74.641998 A 174.582945,174.582945 0,0 1,4.359785,38.272636"
+              stroke="#c98694" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardaukar id_GPE"
+              d="M -316.884064,117.756149 A 189.946612,189.946612 0,0 1,-233.901474,-71.719055"
+              stroke="#61a4a7" stroke-width="0.013274336" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardaukar id_PERSON"
+              d="M -314.868042,118.259254 A 234.707759,234.707759 0,0 1,-93.579559,31.124413"
+              stroke="#9a96e5" stroke-width="2.9867256" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Shaddam_IV id_ORG"
+              d="M 63.346275,103.345818 A 126.618546,126.618546 0,0 1,32.344376,-7.687637"
+              stroke="#c98694" stroke-width="1.1999999" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Shaddam_IV id_PERSON"
+              d="M 62.554676,105.548714 A 105.161796,105.161796 0,0 1,-14.568991,83.561089"
+              stroke="#9a96e5" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Shadout_Mapes id_ORG"
+              d="M -63.541859,-100.131805 A 104.191979,104.191979 0,0 1,21.313356,-77.203384"
+              stroke="#c98694" stroke-width="0.875" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Shadout_Mapes id_PERSON"
+              d="M -64.270706,-97.818687 A 121.059871,121.059871 0,0 1,-30.906391,-3.766350"
+              stroke="#9a96e5" stroke-width="2.125" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sietch_Tabr id_PERSON"
+              d="M -320.034088,-85.958313 A 253.978668,253.978668 0,0 1,-72.935173,2.450727"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spacing_Guild id_ORG"
+              d="M 307.548126,-140.454636 A 232.003165,232.003165 0,0 1,86.322662,-37.337341"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spice_Guild id_GPE"
+              d="M 37.026150,-229.307251 A 244.697434,244.697434 0,0 1,-190.757736,-81.839966"
+              stroke="#909556" stroke-width="0.08490566" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Spice_Guild id_ORG"
+              d="M 41.240234,-229.885742 A 156.432616,156.432616 0,0 1,65.040001,-81.697144"
+              stroke="#f97743" stroke-width="2.7735848" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spice_Guild id_PERSON"
+              d="M 40.037968,-229.218155 A 241.405808,241.405808 0,0 1,-8.274622,10.512584"
+              stroke="#c98694" stroke-width="0.14150943" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Stilgar id_GPE"
+              d="M -252.912552,220.698257 A 257.087163,257.087163 0,0 1,-229.118439,-65.868988"
+              stroke="#61a4a7" stroke-width="0.07753479" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Stilgar id_PERSON"
+              d="M -251.079620,220.424255 A 227.540910,227.540910 0,0 1,-94.483559,53.102257"
+              stroke="#9a96e5" stroke-width="2.922465" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Thufir_Hawat id_GPE"
+              d="M -34.827095,-311.420441 A 245.532598,245.532598 0,0 1,-191.895920,-90.531967"
+              stroke="#909556" stroke-width="0.18650088" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Thufir_Hawat id_LOC"
+              d="M -29.292286,-315.237030 A 478.566113,478.566113 0,0 1,286.000397,149.041565"
+              stroke="#f97743" stroke-width="0.026642984" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Thufir_Hawat id_ORG"
+              d="M -30.125566,-313.693542 A 236.245286,236.245286 0,0 1,57.329136,-84.676926"
+              stroke="#f97743" stroke-width="2.3872113" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thufir_Hawat id_PERSON"
+              d="M -31.438141,-312.437134 A 301.195184,301.195184 0,0 1,-17.490910,2.563090"
+              stroke="#c98694" stroke-width="0.39964476" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wallach_IX id_PERSON"
+              d="M -165.352325,288.684998 A 227.704688,227.704688 0,0 1,-87.033348,71.651642"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_GPE"
+              d="M -276.756256,-178.450836 A 96.829480,96.829480 0,0 1,-215.541428,-106.304024"
+              stroke="#61a4a7" stroke-width="0.04812834" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_PERSON"
+              d="M -276.625336,-179.000977 A 269.552551,269.552551 0,0 1,-58.036636,-4.232000"
+              stroke="#9a96e5" stroke-width="2.9518716" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="2.3741934" cx="331.50616"
+                class="id_Alia" cy="-35.857365" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.645161" cx="285.57132"
+                class="id_LOC" cy="159.51665" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.6774192"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="37.274837" cx="46.656296"
+                class="id_ORG" cy="-45.5918" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="6.48258"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="2.3741934" cx="-157.35951"
+                class="id_Arrakeen" cy="-164.12663" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="21.27871" cx="-213.84451"
+                class="id_GPE" cy="-83.23733" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="3.700645"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="3.828387" cx="-127.7705"
+                class="id_Arrakis" cy="-25.015503" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="46.0" cx="-45.29737"
+                class="id_PERSON" cy="44.11788" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-65.91443"
+                class="id_Atreides" cy="331.2348" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="228.70705"
+                class="id_Bene_Gesserit" cy="242.90552" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="0.92" cx="232.06929"
+                class="id_CHOAM" cy="-5.108687" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="3.828387" cx="-128.83429"
+                class="id_Caladan" cy="-305.01355" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="0.92" cx="68.50101"
+                class="id_Castle_Caladan" cy="-332.71933" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="3.828387" cx="42.642994"
+                class="id_Chani" cy="327.78195" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-30.462662"
+                class="id_Corrino" cy="137.3707" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="5.2825804" cx="-209.38866"
+                class="id_Duncan_Idaho" cy="-252.6386" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="0.91870964"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="3.828387" cx="239.829"
+                class="id_NORP" cy="-225.9158" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="3.828387" cx="323.3604"
+                class="id_Dune" cy="67.229805" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="-230.53983"
+                class="id_Fenring" cy="19.498165" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="3.828387" cx="217.99638"
+                class="id_Feyd_Rautha" cy="-108.07914" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="205.9478"
+                class="id_Fremen" cy="94.36694" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="2.3741934" cx="136.66223"
+                class="id_Giedi_Prime" cy="-187.01224" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="0.92" cx="160.91614"
+                class="id_Guild_Bank" cy="-289.99344" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="3.828387" cx="-134.63821"
+                class="id_Gurney_Halleck" cy="191.51979" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-219.35489"
+                class="id_Harah" cy="125.7801" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="3.828387" cx="-68.122345"
+                class="id_Harkonnen" cy="-210.98497" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="149.87003"
+                class="id_Irulan" cy="176.59097" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="61.533024"
+                class="id_Jessica" cy="221.38705" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="142.5086"
+                class="id_Landsraad" cy="300.11713" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="124.56645"
+                class="id_Leto" cy="28.610987" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="5.2825804" cx="29.738214"
+                class="id_Liet_Kynes" cy="-136.16597" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.91870964"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="5.2825804" cx="-39.583366"
+                class="id_Paul" cy="236.73706" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.91870964"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="3.828387" cx="-330.66574"
+                class="id_Piter" cy="14.773376" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-127.63344"
+                class="id_Rabban" cy="81.09295" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="2.3741934" cx="125.57644"
+                class="id_Salusa_Secundus" cy="-77.0935" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="-316.44803"
+                class="id_Sardaukar" cy="120.29969" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="65.114944"
+                class="id_Shaddam_IV" cy="105.22506" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="-66.07898"
+                class="id_Shadout_Mapes" cy="-99.65984" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-321.0139"
+                class="id_Sietch_Tabr" cy="-85.758354" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="0.92" cx="308.09494"
+                class="id_Spacing_Guild" cy="-141.2919" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="3.828387" cx="38.646744"
+                class="id_Spice_Guild" cy="-233.14" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.6658064"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="-251.64"
+                class="id_Stilgar" cy="222.94333" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="5.2825804" cx="-34.70229"
+                class="id_Thufir_Hawat" cy="-317.161" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="0.91870964"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="0.92" cx="-165.16624"
+                class="id_Wallach_IX" cy="289.66754" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="2.3741934" cx="-279.18622"
+                class="id_Yueh" cy="-179.31973" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="0.4129032"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="12" x="331.50616" y="-33.674747"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alia" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Alia
+        </text>
+        <text stroke-linecap="round" font-size="12" x="285.57132" y="161.73882"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_LOC" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            LOC
+        </text>
+        <text stroke-linecap="round" font-size="12" x="46.656296" y="-43.369633"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ORG" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            ORG
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-157.35951"
+              y="-161.94402" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arrakeen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Arrakeen
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-213.84451"
+              y="-81.016624" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GPE" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            GPE
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-127.7705" y="-22.832886"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arrakis" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Arrakis
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-45.29737" y="46.34005"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PERSON" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            PERSON
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-65.91443" y="333.41742"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Atreides" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Atreides
+        </text>
+        <text stroke-linecap="round" font-size="12" x="228.70705" y="245.12622"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bene_Gesserit" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Bene Gesserit
+        </text>
+        <text stroke-linecap="round" font-size="12" x="232.06929" y="-2.886519"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CHOAM" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            CHOAM
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-128.83429"
+              y="-302.79285" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Caladan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Caladan
+        </text>
+        <text stroke-linecap="round" font-size="12" x="68.50101" y="-330.49863"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Castle_Caladan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Castle Caladan
+        </text>
+        <text stroke-linecap="round" font-size="12" x="42.642994" y="330.00266"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chani" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Chani
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-30.462662" y="139.5914"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Corrino" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Corrino
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-209.38866"
+              y="-250.45598" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duncan_Idaho" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Duncan Idaho
+        </text>
+        <text stroke-linecap="round" font-size="12" x="239.829" y="-223.69363"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NORP" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            NORP
+        </text>
+        <text stroke-linecap="round" font-size="12" x="323.3604" y="69.41242"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dune" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Dune
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-230.53983" y="22.276974"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fenring" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Fenring
+        </text>
+        <text stroke-linecap="round" font-size="12" x="217.99638" y="-105.30033"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Feyd_Rautha" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Feyd Rautha
+        </text>
+        <text stroke-linecap="round" font-size="12" x="205.9478" y="96.54956"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fremen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Fremen
+        </text>
+        <text stroke-linecap="round" font-size="12" x="136.66223" y="-184.79153"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Giedi_Prime" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Giedi Prime
+        </text>
+        <text stroke-linecap="round" font-size="12" x="160.91614" y="-287.77274"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Guild_Bank" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Guild Bank
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-134.63821" y="194.33522"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gurney_Halleck" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Gurney Halleck
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-219.35489"
+              y="127.962715" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harah" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Harah
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-68.122345"
+              y="-208.80235" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harkonnen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Harkonnen
+        </text>
+        <text stroke-linecap="round" font-size="12" x="149.87003" y="178.77359"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Irulan" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Irulan
+        </text>
+        <text stroke-linecap="round" font-size="12" x="61.533024" y="223.57114"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jessica" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Jessica
+        </text>
+        <text stroke-linecap="round" font-size="12" x="142.5086" y="302.29974"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Landsraad" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Landsraad
+        </text>
+        <text stroke-linecap="round" font-size="12" x="124.56645" y="30.793604"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leto" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Leto
+        </text>
+        <text stroke-linecap="round" font-size="12" x="29.738214" y="-133.38716"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Liet_Kynes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Liet Kynes
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-39.583366" y="238.91968"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paul" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Paul
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-330.66574" y="16.955994"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piter" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Piter
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-127.63344" y="83.275566"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rabban" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Rabban
+        </text>
+        <text stroke-linecap="round" font-size="12" x="125.57644" y="-74.872795"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Salusa_Secundus" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Salusa Secundus
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-316.44803" y="122.52039"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sardaukar" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Sardaukar
+        </text>
+        <text stroke-linecap="round" font-size="12" x="65.114944" y="107.44576"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shaddam_IV" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Shaddam IV
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-66.07898" y="-96.87957"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shadout_Mapes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Shadout Mapes
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-321.0139" y="-83.53765"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sietch_Tabr" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Sietch Tabr
+        </text>
+        <text stroke-linecap="round" font-size="12" x="308.09494" y="-138.47647"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spacing_Guild" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Spacing Guild
+        </text>
+        <text stroke-linecap="round" font-size="12" x="38.646744" y="-230.35973"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spice_Guild" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Spice Guild
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-251.64" y="225.75876"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stilgar" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Stilgar
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-34.70229" y="-314.94177"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thufir_Hawat" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Thufir Hawat
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-165.16624" y="291.85016"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wallach_IX" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Wallach IX
+        </text>
+        <text stroke-linecap="round" font-size="12" x="-279.18622"
+              y="-177.13712" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yueh" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            Yueh
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="12" x="331.50616" y="-33.674747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alia">
+            Alia
+        </text>
+        <text font-size="12" x="285.57132" y="161.73882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_LOC">
+            LOC
+        </text>
+        <text font-size="12" x="46.656296" y="-43.369633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ORG">
+            ORG
+        </text>
+        <text font-size="12" x="-157.35951" y="-161.94402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arrakeen">
+            Arrakeen
+        </text>
+        <text font-size="12" x="-213.84451" y="-81.016624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GPE">
+            GPE
+        </text>
+        <text font-size="12" x="-127.7705" y="-22.832886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arrakis">
+            Arrakis
+        </text>
+        <text font-size="12" x="-45.29737" y="46.34005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PERSON">
+            PERSON
+        </text>
+        <text font-size="12" x="-65.91443" y="333.41742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Atreides">
+            Atreides
+        </text>
+        <text font-size="12" x="228.70705" y="245.12622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bene_Gesserit">
+            Bene Gesserit
+        </text>
+        <text font-size="12" x="232.06929" y="-2.886519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CHOAM">
+            CHOAM
+        </text>
+        <text font-size="12" x="-128.83429" y="-302.79285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Caladan">
+            Caladan
+        </text>
+        <text font-size="12" x="68.50101" y="-330.49863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Castle_Caladan">
+            Castle Caladan
+        </text>
+        <text font-size="12" x="42.642994" y="330.00266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chani">
+            Chani
+        </text>
+        <text font-size="12" x="-30.462662" y="139.5914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Corrino">
+            Corrino
+        </text>
+        <text font-size="12" x="-209.38866" y="-250.45598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duncan_Idaho">
+            Duncan Idaho
+        </text>
+        <text font-size="12" x="239.829" y="-223.69363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NORP">
+            NORP
+        </text>
+        <text font-size="12" x="323.3604" y="69.41242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dune">
+            Dune
+        </text>
+        <text font-size="12" x="-230.53983" y="22.276974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fenring">
+            Fenring
+        </text>
+        <text font-size="12" x="217.99638" y="-105.30033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Feyd_Rautha">
+            Feyd Rautha
+        </text>
+        <text font-size="12" x="205.9478" y="96.54956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fremen">
+            Fremen
+        </text>
+        <text font-size="12" x="136.66223" y="-184.79153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Giedi_Prime">
+            Giedi Prime
+        </text>
+        <text font-size="12" x="160.91614" y="-287.77274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Guild_Bank">
+            Guild Bank
+        </text>
+        <text font-size="12" x="-134.63821" y="194.33522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gurney_Halleck">
+            Gurney Halleck
+        </text>
+        <text font-size="12" x="-219.35489" y="127.962715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harah">
+            Harah
+        </text>
+        <text font-size="12" x="-68.122345" y="-208.80235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harkonnen">
+            Harkonnen
+        </text>
+        <text font-size="12" x="149.87003" y="178.77359" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Irulan">
+            Irulan
+        </text>
+        <text font-size="12" x="61.533024" y="223.57114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jessica">
+            Jessica
+        </text>
+        <text font-size="12" x="142.5086" y="302.29974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Landsraad">
+            Landsraad
+        </text>
+        <text font-size="12" x="124.56645" y="30.793604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leto">
+            Leto
+        </text>
+        <text font-size="12" x="29.738214" y="-133.38716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Liet_Kynes">
+            Liet Kynes
+        </text>
+        <text font-size="12" x="-39.583366" y="238.91968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paul">
+            Paul
+        </text>
+        <text font-size="12" x="-330.66574" y="16.955994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piter">
+            Piter
+        </text>
+        <text font-size="12" x="-127.63344" y="83.275566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rabban">
+            Rabban
+        </text>
+        <text font-size="12" x="125.57644" y="-74.872795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Salusa_Secundus">
+            Salusa Secundus
+        </text>
+        <text font-size="12" x="-316.44803" y="122.52039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sardaukar">
+            Sardaukar
+        </text>
+        <text font-size="12" x="65.114944" y="107.44576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shaddam_IV">
+            Shaddam IV
+        </text>
+        <text font-size="12" x="-66.07898" y="-96.87957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shadout_Mapes">
+            Shadout Mapes
+        </text>
+        <text font-size="12" x="-321.0139" y="-83.53765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sietch_Tabr">
+            Sietch Tabr
+        </text>
+        <text font-size="12" x="308.09494" y="-138.47647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spacing_Guild">
+            Spacing Guild
+        </text>
+        <text font-size="12" x="38.646744" y="-230.35973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spice_Guild">
+            Spice Guild
+        </text>
+        <text font-size="12" x="-251.64" y="225.75876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stilgar">
+            Stilgar
+        </text>
+        <text font-size="12" x="-34.70229" y="-314.94177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thufir_Hawat">
+            Thufir Hawat
+        </text>
+        <text font-size="12" x="-165.16624" y="291.85016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wallach_IX">
+            Wallach IX
+        </text>
+        <text font-size="12" x="-279.18622" y="-177.13712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yueh">
+            Yueh
+        </text>
+    </g>
+</svg>

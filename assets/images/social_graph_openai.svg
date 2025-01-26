@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1005.5485"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-437.026123 -269.744141 1005.548523 546.949707" height="546.9497"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Shaddam_IV id_Paul"
+              d="M 237.633438,129.584335 A 330.610059,330.610059 0,0 1,-83.177101,-36.739433"
+              stroke="#ea8615" stroke-width="4.9500003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Irulan id_Paul"
+              d="M -12.137736,-159.682373 A 111.840956,111.840956 0,0 1,-70.467239,-70.402710"
+              stroke="#ea8615" stroke-width="3.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Jessica id_Paul"
+              d="M -169.879013,31.291315 A 119.504581,119.504581 0,0 1,-119.120720,-48.108326"
+              stroke="#5fc613" stroke-width="20.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reverend_Mother id_Paul"
+              d="M -337.198029,133.713028 A 266.266062,266.266062 0,0 1,-122.054199,-57.765034"
+              stroke="#ff5c81" stroke-width="5.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Thufir_Hawat id_Paul"
+              d="M 186.961960,-77.587830 A 248.492905,248.492905 0,0 1,-71.776291,-47.940643"
+              stroke="#5fc613" stroke-width="5.7000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_Paul"
+              d="M 85.459732,-132.540665 A 167.990780,167.990780 0,0 1,-68.944794,-56.331898"
+              stroke="#5fc613" stroke-width="2.75" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_Paul"
+              d="M 73.093132,47.179585 A 183.194242,183.194242 0,0 1,-82.613953,-37.036667"
+              stroke="#5fc613" stroke-width="11.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Feyd_Rautha id_Paul"
+              d="M 478.257721,-122.181732 A 486.266511,486.266511 0,0 1,-71.892921,-47.725117"
+              stroke="#00caff" stroke-width="1.45" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Baron id_Paul"
+              d="M 400.516510,-9.703475 A 425.869632,425.869632 0,0 1,-74.838486,-43.403858"
+              stroke="#00caff" stroke-width="1.85" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_Paul"
+              d="M -14.461696,0.136430 A 93.878418,93.878418 0,0 1,-82.527115,-37.084038"
+              stroke="#5fc613" stroke-width="13.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_Paul"
+              d="M 40.345341,190.273712 A 244.064754,244.064754 0,0 1,-97.362061,-33.859276"
+              stroke="#5fc613" stroke-width="2.65" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_Paul"
+              d="M -43.011566,131.372040 A 171.408621,171.408621 0,0 1,-102.669724,-34.791378"
+              stroke="#c686e9" stroke-width="4.7000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Stilgar id_Paul"
+              d="M -192.193695,-157.119629 A 121.654887,121.654887 0,0 1,-103.336334,-86.185104"
+              stroke="#c686e9" stroke-width="13.400001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Jamis id_Paul"
+              d="M -200.576645,-83.542191 A 93.013760,93.013760 0,0 1,-116.116554,-77.592247"
+              stroke="#c686e9" stroke-width="3.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_Paul"
+              d="M -274.909363,-79.330620 A 158.396041,158.396041 0,0 1,-117.129219,-76.277885"
+              stroke="#c686e9" stroke-width="9.45" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harah id_Paul"
+              d="M -407.457520,-50.984638 A 264.502273,264.502273 0,0 1,-118.253418,-74.590347"
+              stroke="#c686e9" stroke-width="1.85" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rabban id_Paul"
+              d="M 309.405548,26.389952 A 348.108914,348.108914 0,0 1,-76.926903,-41.175705"
+              stroke="#00caff" stroke-width="1.0500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_Paul"
+              d="M -410.227325,45.012897 A 281.955988,281.955988 0,0 1,-121.312981,-67.436615"
+              stroke="#5fc613" stroke-width="1.45" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Korba id_Paul"
+              d="M -126.546814,-258.697906 A 167.787367,167.787367 0,0 1,-84.853195,-85.221634"
+              stroke="#c686e9" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Irulan id_Shaddam_IV"
+              d="M -6.018546,-164.409805 A 329.687919,329.687919 0,0 1,251.960541,111.284340"
+              stroke="#ea8615" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jessica id_Shaddam_IV"
+              d="M -143.954697,48.305141 A 358.358369,358.358369 0,0 1,242.187729,116.084251"
+              stroke="#5fc613" stroke-width="1.5500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reverend_Mother id_Shaddam_IV"
+              d="M -330.932312,137.818634 A 495.168234,495.168234 0,0 1,240.345779,118.331734"
+              stroke="#ff5c81" stroke-width="1.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Shaddam_IV"
+              d="M 350.519104,-154.894638 A 254.403854,254.403854 0,0 1,266.956787,117.684517"
+              stroke="#00caff" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Baron id_Shaddam_IV"
+              d="M 410.246216,-2.589085 A 180.057353,180.057353 0,0 1,270.101654,125.274414"
+              stroke="#00caff" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_Shaddam_IV"
+              d="M 121.306213,43.486389 A 147.432093,147.432093 0,0 1,246.033722,113.174835"
+              stroke="#5fc613" stroke-width="3.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Feyd_Rautha id_Shaddam_IV"
+              d="M 483.381439,-119.626694 A 286.554529,286.554529 0,0 1,269.859039,123.945198"
+              stroke="#00caff" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fenring id_Shaddam_IV"
+              d="M 533.656860,117.377495 A 237.044109,237.044109 0,0 1,267.751678,136.258545"
+              stroke="#2e9072" stroke-width="1.65" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thufir_Hawat id_Shaddam_IV"
+              d="M 215.280411,-77.061287 A 186.337489,186.337489 0,0 1,259.689270,112.234795"
+              stroke="#5fc613" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_Shaddam_IV"
+              d="M 13.270192,-1.942575 A 237.102169,237.102169 0,0 1,246.067261,113.156570"
+              stroke="#5fc613" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rabban id_Shaddam_IV"
+              d="M 314.013702,29.039030 A 99.263709,99.263709 0,0 1,268.371735,119.913269"
+              stroke="#00caff" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_Shaddam_IV"
+              d="M -407.893677,47.542324 A 560.720752,560.720752 0,0 1,241.814194,116.478203"
+              stroke="#5fc613" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Irulan id_Jessica"
+              d="M -11.699919,-159.674377 A 230.949698,230.949698 0,0 1,-143.152863,50.131802"
+              stroke="#ea8615" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Reverend_Mother id_Jessica"
+              d="M -334.471100,134.794281 A 157.183450,157.183450 0,0 1,-200.891327,58.620495"
+              stroke="#ff5c81" stroke-width="3.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_Jessica"
+              d="M 77.936592,59.986168 A 223.901765,223.901765 0,0 1,-144.933578,76.105659"
+              stroke="#5fc613" stroke-width="6.9500003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Jessica"
+              d="M 343.684418,-155.630875 A 471.064790,471.064790 0,0 1,-141.630005,67.344627"
+              stroke="#00caff" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Baron id_Jessica"
+              d="M 402.592407,-6.981761 A 491.796093,491.796093 0,0 1,-144.381577,75.090454"
+              stroke="#00caff" stroke-width="1.5500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_Jessica"
+              d="M 87.514267,-131.629425 A 274.559315,274.559315 0,0 1,-141.077576,59.236343"
+              stroke="#5fc613" stroke-width="2.05" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thufir_Hawat id_Jessica"
+              d="M 191.167191,-73.909882 A 334.866371,334.866371 0,0 1,-141.688278,67.619957"
+              stroke="#5fc613" stroke-width="3.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_Jessica"
+              d="M -8.723948,11.411787 A 150.932827,150.932827 0,0 1,-141.604614,67.220467"
+              stroke="#5fc613" stroke-width="2.05" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duncan_Idaho id_Jessica"
+              d="M 39.505421,194.974335 A 214.196515,214.196515 0,0 1,-157.860519,88.235374"
+              stroke="#5fc613" stroke-width="1.85" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Shadout_Mapes id_Jessica"
+              d="M -137.559311,181.987564 A 105.946797,105.946797 0,0 1,-177.559860,90.545982"
+              stroke="#c686e9" stroke-width="1.45" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liet_Kynes id_Jessica"
+              d="M -44.718689,137.316025 A 128.457039,128.457039 0,0 1,-155.721344,87.082848"
+              stroke="#c686e9" stroke-width="3.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bewt id_Jessica"
+              d="M -80.580208,265.718140 A 187.850512,187.850512 0,0 1,-175.222549,90.972603"
+              stroke="#c686e9" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Czigo id_Jessica"
+              d="M -266.513275,249.870789 A 176.955788,176.955788 0,0 1,-196.635132,76.867439"
+              stroke="#00caff" stroke-width="0.55" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Stilgar id_Jessica"
+              d="M -195.635422,-150.444153 A 185.310496,185.310496 0,0 1,-158.888611,33.827251"
+              stroke="#c686e9" stroke-width="5.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Jamis id_Jessica"
+              d="M -201.329880,-78.287315 A 122.309871,122.309871 0,0 1,-162.529770,32.493141"
+              stroke="#c686e9" stroke-width="2.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_Jessica"
+              d="M -273.640594,-70.165535 A 146.969586,146.969586 0,0 1,-175.845627,31.662563"
+              stroke="#c686e9" stroke-width="4.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_Jessica"
+              d="M -408.143433,47.138229 A 203.211344,203.211344 0,0 1,-195.599548,44.086235"
+              stroke="#5fc613" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harah id_Jessica"
+              d="M -406.180115,-48.277695 A 220.534151,220.534151 0,0 1,-187.301117,36.079712"
+              stroke="#c686e9" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Leto id_Reverend_Mother"
+              d="M 80.975685,63.302402 A 373.712321,373.712321 0,0 1,-329.427368,149.471786"
+              stroke="#5fc613" stroke-width="1.0500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thufir_Hawat id_Reverend_Mother"
+              d="M 191.691330,-73.585831 A 491.756369,491.756369 0,0 1,-328.780701,147.476669"
+              stroke="#5fc613" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stilgar id_Reverend_Mother"
+              d="M -201.219055,-147.538818 A 277.451364,277.451364 0,0 1,-330.055908,139.118378"
+              stroke="#c686e9" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chani id_Reverend_Mother"
+              d="M -280.835266,-62.207737 A 187.504100,187.504100 0,0 1,-331.299591,137.370087"
+              stroke="#c686e9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alia id_Reverend_Mother"
+              d="M -407.181091,53.704792 A 99.660965,99.660965 0,0 1,-341.083069,133.397186"
+              stroke="#5fc613" stroke-width="0.95" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Harah id_Reverend_Mother"
+              d="M -407.118103,-43.368935 A 170.907026,170.907026 0,0 1,-337.217987,133.707932"
+              stroke="#c686e9" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thufir_Hawat id_Baron"
+              d="M 219.563477,-94.759354 A 186.983305,186.983305 0,0 1,404.533264,-30.161690"
+              stroke="#5fc613" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Leto id_Baron"
+              d="M 114.130135,28.117050 A 269.049214,269.049214 0,0 1,399.632599,-24.019840"
+              stroke="#5fc613" stroke-width="5.55" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_Baron"
+              d="M 98.223122,-142.144104 A 288.473754,288.473754 0,0 1,405.144073,-30.595627"
+              stroke="#5fc613" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Baron"
+              d="M 355.165955,-158.621292 A 132.868851,132.868851 0,0 1,416.295471,-33.058846"
+              stroke="#00caff" stroke-width="3.1000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Feyd_Rautha id_Baron"
+              d="M 484.537872,-119.587357 A 108.864309,108.864309 0,0 1,427.968262,-24.185507"
+              stroke="#00caff" stroke-width="4.7000003" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fenring id_Baron"
+              d="M 532.513306,112.808044 A 150.760225,150.760225 0,0 1,416.383514,-2.378329"
+              stroke="#2e9072" stroke-width="2.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nefud id_Baron"
+              d="M 521.022522,-10.841794 A 90.178601,90.178601 0,0 1,426.527344,-8.735898"
+              stroke="#00caff" stroke-width="1.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rabban id_Baron"
+              d="M 315.993439,20.563694 A 90.644006,90.644006 0,0 1,398.491974,-20.179150"
+              stroke="#00caff" stroke-width="1.5500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Irulan id_Leto"
+              d="M -6.529099,-162.931778 A 197.887845,197.887845 0,0 1,99.747383,21.337303"
+              stroke="#ea8615" stroke-width="1.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Thufir_Hawat id_Leto"
+              d="M 199.856628,-70.984711 A 142.206453,142.206453 0,0 1,119.865059,36.955215"
+              stroke="#5fc613" stroke-width="8.150001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Leto"
+              d="M 345.846802,-154.744492 A 271.617828,271.617828 0,0 1,121.273315,43.106205"
+              stroke="#00caff" stroke-width="2.15" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Feyd_Rautha id_Leto"
+              d="M 480.187378,-120.655220 A 353.328920,353.328920 0,0 1,120.951614,49.914017"
+              stroke="#00caff" stroke-width="0.95" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_Leto"
+              d="M 95.171593,-133.056992 A 154.493695,154.493695 0,0 1,109.341827,24.471115"
+              stroke="#5fc613" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fenring id_Leto"
+              d="M 533.050232,116.453209 A 371.742615,371.742615 0,0 1,114.642647,62.125626"
+              stroke="#2e9072" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Liet_Kynes id_Leto"
+              d="M -33.522312,128.694351 A 134.786613,134.786613 0,0 1,73.050079,46.457146"
+              stroke="#c686e9" stroke-width="5.75" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_Leto"
+              d="M 13.304760,-1.698975 A 89.738162,89.738162 0,0 1,82.982338,25.827744"
+              stroke="#5fc613" stroke-width="8.35" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_Leto"
+              d="M 46.215405,185.160278 A 130.400233,130.400233 0,0 1,78.816833,61.079830"
+              stroke="#5fc613" stroke-width="2.75" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Shadout_Mapes id_Leto"
+              d="M -134.814636,181.262833 A 225.621634,225.621634 0,0 1,73.062553,44.052856"
+              stroke="#c686e9" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Stilgar id_Leto"
+              d="M -192.085754,-159.041031 A 302.846871,302.846871 0,0 1,88.440331,22.847023"
+              stroke="#c686e9" stroke-width="1.35" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bewt id_Leto"
+              d="M -78.474327,264.529541 A 235.614844,235.614844 0,0 1,74.162560,52.705727"
+              stroke="#c686e9" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_Leto"
+              d="M -273.848328,-77.030159 A 333.538551,333.538551 0,0 1,82.329880,26.319355"
+              stroke="#c686e9" stroke-width="0.75" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Irulan id_Thufir_Hawat"
+              d="M -6.141306,-167.252228 A 188.529058,188.529058 0,0 1,190.145660,-104.985069"
+              stroke="#ea8615" stroke-width="0.55" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Yueh id_Thufir_Hawat"
+              d="M 98.392525,-141.398605 A 101.789610,101.789610 0,0 1,190.730911,-105.400040"
+              stroke="#5fc613" stroke-width="1.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Piter id_Thufir_Hawat"
+              d="M 343.925964,-155.495148 A 136.487154,136.487154 0,0 1,220.109314,-87.695099"
+              stroke="#00caff" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Feyd_Rautha id_Thufir_Hawat"
+              d="M 478.309479,-122.126740 A 237.849163,237.849163 0,0 1,218.176758,-81.244186"
+              stroke="#00caff" stroke-width="1.65" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fenring id_Thufir_Hawat"
+              d="M 532.436401,114.368904 A 327.885805,327.885805 0,0 1,208.911453,-72.504807"
+              stroke="#2e9072" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gurney_Halleck id_Thufir_Hawat"
+              d="M 6.723536,-11.778131 A 184.165820,184.165820 0,0 1,182.761429,-93.050163"
+              stroke="#5fc613" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duncan_Idaho id_Thufir_Hawat"
+              d="M 47.699787,184.838348 A 268.613550,268.613550 0,0 1,184.525833,-81.251419"
+              stroke="#5fc613" stroke-width="1.75" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liet_Kynes id_Thufir_Hawat"
+              d="M -34.945641,128.299042 A 273.543512,273.543512 0,0 1,182.695679,-86.949463"
+              stroke="#c686e9" stroke-width="1.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Rabban id_Thufir_Hawat"
+              d="M 309.048706,23.699486 A 133.465851,133.465851 0,0 1,205.170044,-71.315269"
+              stroke="#00caff" stroke-width="0.55" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Yueh"
+              d="M 341.564178,-157.391922 A 215.840827,215.840827 0,0 1,97.331131,-135.493271"
+              stroke="#00caff" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Duncan_Idaho id_Yueh"
+              d="M 44.376396,185.935928 A 280.509988,280.509988 0,0 1,84.083061,-133.585999"
+              stroke="#5fc613" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Piter id_Feyd_Rautha"
+              d="M 355.805695,-165.817062 A 117.307035,117.307035 0,0 1,478.908691,-133.957397"
+              stroke="#00caff" stroke-width="1.0500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fenring id_Feyd_Rautha"
+              d="M 533.808533,110.164925 A 206.273999,206.273999 0,0 1,481.017853,-120.242241"
+              stroke="#2e9072" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liet_Kynes id_Gurney_Halleck"
+              d="M -39.303001,128.667007 A 117.492557,117.492557 0,0 1,-10.917926,9.426435"
+              stroke="#c686e9" stroke-width="2.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duncan_Idaho id_Gurney_Halleck"
+              d="M 41.744671,188.084290 A 166.922982,166.922982 0,0 1,-5.326843,13.226694"
+              stroke="#5fc613" stroke-width="1.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stilgar id_Gurney_Halleck"
+              d="M -192.093842,-158.180389 A 214.787131,214.787131 0,0 1,-4.580909,-13.200628"
+              stroke="#c686e9" stroke-width="2.25" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tuek id_Gurney_Halleck"
+              d="M -12.507753,65.270439 A 55.865801,55.865801 0,0 1,-9.408272,10.880357"
+              stroke="#c686e9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chani id_Gurney_Halleck"
+              d="M -274.016998,-77.498215 A 244.876725,244.876725 0,0 1,-9.536167,-10.496714"
+              stroke="#c686e9" stroke-width="1.0500001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Liet_Kynes id_Duncan_Idaho"
+              d="M -28.137558,136.469986 A 85.925480,85.925480 0,0 1,45.374249,185.458572"
+              stroke="#c686e9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stilgar id_Duncan_Idaho"
+              d="M -192.668121,-155.105927 A 361.621537,361.621537 0,0 1,49.051517,184.754486"
+              stroke="#c686e9" stroke-width="0.65000004" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stilgar id_Liet_Kynes"
+              d="M -193.131683,-153.936340 A 282.646244,282.646244 0,0 1,-35.505199,128.215683"
+              stroke="#c686e9" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Jamis id_Stilgar"
+              d="M -207.756378,-85.595070 A 64.360343,64.360343 0,0 1,-209.690765,-149.144608"
+              stroke="#c686e9" stroke-width="2.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_Stilgar"
+              d="M -282.954498,-84.894020 A 98.450555,98.450555 0,0 1,-214.612228,-156.193207"
+              stroke="#c686e9" stroke-width="3.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chani id_Jamis"
+              d="M -275.697998,-80.486702 A 67.030612,67.030612 0,0 1,-209.343750,-83.873573"
+              stroke="#c686e9" stroke-width="1.3000001" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Harah id_Chani"
+              d="M -408.084869,-51.663803 A 108.453594,108.453594 0,0 1,-296.016022,-77.701279"
+              stroke="#c686e9" stroke-width="0.55" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_Chani"
+              d="M -413.209167,43.768116 A 149.881955,149.881955 0,0 1,-296.728424,-71.347038"
+              stroke="#5fc613" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Alia id_Harah"
+              d="M -418.908264,44.884022 A 82.012536,82.012536 0,0 1,-416.304993,-41.698509"
+              stroke="#5fc613" stroke-width="1.35" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#5fc613" r="24.65522" cx="-95.404015"
+                class="id_Paul" cy="-60.586803" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="4.287864"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="15.066795" cx="253.8833"
+                class="id_Shaddam_IV" cy="127.54803" stroke="#a35d0e"
+                stroke-opacity="1.0" stroke-width="2.6203122"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="27.6" cx="-171.00856"
+                class="id_Jessica" cy="61.270042" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#ff5c81" r="10.643952" cx="-340.0646"
+                class="id_Reverend_Mother" cy="144.92178" stroke="#b2405a"
+                stroke-opacity="1.0" stroke-width="1.8511221"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="14.299537" cx="413.8378"
+                class="id_Baron" cy="-17.711409" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="2.4868758"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="22.243032" cx="97.20329"
+                class="id_Leto" cy="45.380287" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="3.8683536"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="17.363909" cx="201.35313"
+                class="id_Thufir_Hawat" cy="-89.7991" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="3.0198102"/>
+        <circle fill-opacity="1.0" fill="#ea8615" r="5.437352" cx="-11.810998"
+                class="id_Irulan" cy="-165.5835" stroke="#a35d0e"
+                stroke-opacity="1.0" stroke-width="0.94562644"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="7.9027333" cx="89.939735"
+                class="id_Yueh" cy="-139.86981" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="1.3743885"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="7.521199" cx="484.23688"
+                class="id_Feyd_Rautha" cy="-127.757034" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="1.3080347"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.828489" cx="-0.51768607"
+                class="id_Gurney_Halleck" cy="0.138248" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="2.2310414"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="8.725775" cx="48.96138"
+                class="id_Duncan_Idaho" cy="194.2386" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="1.517526"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.6469984" cx="-36.449512"
+                class="id_Liet_Kynes" cy="136.47382" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="1.3299127"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.494407" cx="-203.48814"
+                class="id_Stilgar" cy="-158.71782" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="1.8251141"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="4.5183096" cx="-205.04361"
+                class="id_Jamis" cy="-81.50107" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="0.785793"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.880665" cx="-285.0566"
+                class="id_Chani" cy="-73.25552" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="1.8922895"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.954457" cx="-412.51343"
+                class="id_Harah" cy="-46.943886" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="1.0355576"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="4.2246814" cx="313.576"
+                class="id_Rabban" cy="24.467896" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="0.73472714"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="7.1908793" cx="-414.66428"
+                class="id_Alia" cy="51.44765" stroke="#428a0d"
+                stroke-opacity="1.0" stroke-width="1.2505877"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="0.92" cx="-127.26376"
+                class="id_Korba" cy="-259.39502" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="0.16"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="7.7349615" cx="347.92355"
+                class="id_Piter" cy="-162.89153" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="1.3452107"/>
+        <circle fill-opacity="1.0" fill="#2e9072" r="5.145983" cx="538.0068"
+                class="id_Fenring" cy="113.86107" stroke="#20644f"
+                stroke-opacity="1.0" stroke-width="0.8949536"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="2.1418495" cx="-135.71585"
+                class="id_Shadout_Mapes" cy="183.40942" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="0.37249556"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="2.1418495" cx="-78.549355"
+                class="id_Bewt" cy="266.8564" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="0.37249556"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="1.0837309" cx="-266.30847"
+                class="id_Czigo" cy="251.0308" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="0.18847494"/>
+        <circle fill-opacity="1.0" fill="#00caff" r="0.9291791" cx="521.8676"
+                class="id_Nefud" cy="-11.394861" stroke="#008db2"
+                stroke-opacity="1.0" stroke-width="0.16159636"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="0.93104273" cx="-12.057159"
+                class="id_Tuek" cy="66.17659" stroke="#8a5da3"
+                stroke-opacity="1.0" stroke-width="0.16192047"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="18" x="-95.404015"
+              y="-57.312878" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paul" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Paul
+        </text>
+        <text stroke-linecap="round" font-size="18" x="253.8833" y="130.87909"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shaddam_IV" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Shaddam IV
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-171.00856" y="64.546165"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jessica" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Jessica
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-340.0646" y="148.19571"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Reverend_Mother" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Reverend Mother
+        </text>
+        <text stroke-linecap="round" font-size="18" x="413.8378" y="-14.437483"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Baron" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Baron
+        </text>
+        <text stroke-linecap="round" font-size="18" x="97.20329" y="48.654213"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leto" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Leto
+        </text>
+        <text stroke-linecap="round" font-size="18" x="201.35313" y="-86.470245"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thufir_Hawat" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Thufir
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-11.810998"
+              y="-162.30957" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Irulan" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Irulan
+        </text>
+        <text stroke-linecap="round" font-size="18" x="89.939735" y="-136.59589"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yueh" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Yueh
+        </text>
+        <text stroke-linecap="round" font-size="18" x="484.23688" y="-123.58882"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Feyd_Rautha" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Feyd
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-0.51768607"
+              y="4.3613925" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gurney_Halleck" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Gurney
+        </text>
+        <text stroke-linecap="round" font-size="18" x="48.96138" y="197.51253"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duncan_Idaho" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Duncan
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-36.449512" y="140.64203"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Liet_Kynes" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Kynes
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-203.48814"
+              y="-154.49467" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stilgar" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Stilgar
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-205.04361"
+              y="-78.224945" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jamis" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Jamis
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-285.0566" y="-69.92447"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chani" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Chani
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-412.51343" y="-43.66996"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harah" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Harah
+        </text>
+        <text stroke-linecap="round" font-size="18" x="313.576" y="27.741821"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rabban" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Rabban
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-414.66428" y="54.721577"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alia" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Alia
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-127.26376" y="-256.1211"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Korba" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Korba
+        </text>
+        <text stroke-linecap="round" font-size="18" x="347.92355" y="-159.6176"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piter" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Piter
+        </text>
+        <text stroke-linecap="round" font-size="18" x="538.0068" y="118.02928"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fenring" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Fenring
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-135.71585" y="187.5249"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shadout_Mapes" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Mapes
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-78.549355" y="270.13034"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bewt" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Bewt
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-266.30847" y="255.25395"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Czigo" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Czigo
+        </text>
+        <text stroke-linecap="round" font-size="18" x="521.8676" y="-8.066004"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nefud" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Nefud
+        </text>
+        <text stroke-linecap="round" font-size="18" x="-12.057159" y="69.450516"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tuek" stroke="#ffffff"
+              stroke-opacity="1.0" stroke-width="5.625px">
+            Tuek
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="18" x="-95.404015" y="-57.312878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paul">
+            Paul
+        </text>
+        <text font-size="18" x="253.8833" y="130.87909" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shaddam_IV">
+            Shaddam IV
+        </text>
+        <text font-size="18" x="-171.00856" y="64.546165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jessica">
+            Jessica
+        </text>
+        <text font-size="18" x="-340.0646" y="148.19571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Reverend_Mother">
+            Reverend Mother
+        </text>
+        <text font-size="18" x="413.8378" y="-14.437483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Baron">
+            Baron
+        </text>
+        <text font-size="18" x="97.20329" y="48.654213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leto">
+            Leto
+        </text>
+        <text font-size="18" x="201.35313" y="-86.470245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thufir_Hawat">
+            Thufir
+        </text>
+        <text font-size="18" x="-11.810998" y="-162.30957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Irulan">
+            Irulan
+        </text>
+        <text font-size="18" x="89.939735" y="-136.59589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yueh">
+            Yueh
+        </text>
+        <text font-size="18" x="484.23688" y="-123.58882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Feyd_Rautha">
+            Feyd
+        </text>
+        <text font-size="18" x="-0.51768607" y="4.3613925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gurney_Halleck">
+            Gurney
+        </text>
+        <text font-size="18" x="48.96138" y="197.51253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duncan_Idaho">
+            Duncan
+        </text>
+        <text font-size="18" x="-36.449512" y="140.64203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Liet_Kynes">
+            Kynes
+        </text>
+        <text font-size="18" x="-203.48814" y="-154.49467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stilgar">
+            Stilgar
+        </text>
+        <text font-size="18" x="-205.04361" y="-78.224945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jamis">
+            Jamis
+        </text>
+        <text font-size="18" x="-285.0566" y="-69.92447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chani">
+            Chani
+        </text>
+        <text font-size="18" x="-412.51343" y="-43.66996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harah">
+            Harah
+        </text>
+        <text font-size="18" x="313.576" y="27.741821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rabban">
+            Rabban
+        </text>
+        <text font-size="18" x="-414.66428" y="54.721577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alia">
+            Alia
+        </text>
+        <text font-size="18" x="-127.26376" y="-256.1211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Korba">
+            Korba
+        </text>
+        <text font-size="18" x="347.92355" y="-159.6176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piter">
+            Piter
+        </text>
+        <text font-size="18" x="538.0068" y="118.02928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fenring">
+            Fenring
+        </text>
+        <text font-size="18" x="-135.71585" y="187.5249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shadout_Mapes">
+            Mapes
+        </text>
+        <text font-size="18" x="-78.549355" y="270.13034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bewt">
+            Bewt
+        </text>
+        <text font-size="18" x="-266.30847" y="255.25395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Czigo">
+            Czigo
+        </text>
+        <text font-size="18" x="521.8676" y="-8.066004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nefud">
+            Nefud
+        </text>
+        <text font-size="18" x="-12.057159" y="69.450516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tuek">
+            Tuek
+        </text>
+    </g>
+</svg>
