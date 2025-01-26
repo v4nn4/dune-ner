@@ -1,0 +1,34 @@
+{
+    "Paul": ["Muad'Dib", "Usul", "PaulMuad'Dib", "Lisan alGaib"],
+    "Leto": [
+        "Duke",
+        "Duke Leto",
+        "duke",
+        "Old Duke",
+        "The Duke",
+        "the Duke",
+        "Duke Leto Atreides"
+    ],
+    "Jessica": ["Lady Jessica"],
+    "Duncan": ["Duncan", "Idaho"],
+    "Hawat": ["Thufir", "Hawat"],
+    "Yueh": ["Dr. Yueh"],
+    "Gurney": ["Gurney", "Halleck"],
+    "Kynes": ["Liet", "Kynes"],
+    "Mapes": ["Mapes"],
+    "Chani": ["Sihaya"],
+    "Irulan": ["Princess Irulan"],
+    "Shaddam IV": ["Padishah Emperor", "Emperor", "the Emperor"],
+    "Baron": ["Baron Vladimir Harkonnen", "the Baron"],
+    "Fenring": ["Count", "Count Fenring"],
+    "Feyd": ["Feyd Rautha", "Feyd-Rautha", "FeydRautha"],
+    "Reverend Mother": [
+        "Reverend Mother Gaius Helen Mohiam",
+        "the old woman",
+        "old woman",
+        "Your Reverence"
+    ],
+    "Giedi Prime": ["Giedi"],
+    "Spice Guild": ["Guild"],
+    "CHOAM": ["CHOAM Company", "the CHOAM Company"]
+}

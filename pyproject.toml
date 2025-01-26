@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "dune-ner"
+version = "0.1.0"
+description = "Named Entity Recognition (NER) for Dune"
+authors = ["v4nn4"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+fire = "^0.7.0"
+outlines = "^0.1.13"
+spacy = "^3.8.4"
+tqdm = "^4.67.1"
+networkx = "^3.4.2"
+ebooklib = "^0.18"
+bs4 = "^0.0.2"
+black = "^24.10.0"
+isort = "^5.13.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

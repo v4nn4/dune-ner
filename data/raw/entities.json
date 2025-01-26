@@ -1,0 +1,53 @@
+{
+    "PERSON": [
+        "Paul",
+        "Leto",
+        "Jessica",
+        "Duncan Idaho",
+        "Gurney Halleck",
+        "Thufir Hawat",
+        "Stilgar",
+        "Yueh",
+        "Fenring",
+        "Rabban",
+        "Feyd Rautha",
+        "Piter",
+        "Shaddam IV",
+        "Irulan",
+        "Harah",
+        "Chani",
+        "Alia",
+        "Mapes",
+        "Liet Kynes",
+        "Reverend Mother",
+        "Irulan"
+    ],
+    "LOC": [
+        "Dune",
+        "Arrakis",
+        "Arrakeen",
+        "Caladan",
+        "Castle Caladan",
+        "Giedi Prime",
+        "Salusa Secundus",
+        "Wallach IX",
+        "Sietch Tabr",
+        "Sietch Jacurutu"
+    ],
+    "GPE": [
+        "Atreides",
+        "Harkonnen",
+        "Corrino",
+        "Fremen"
+    ],
+    "NORP": [
+        "Bene Gesserit",
+        "Sardaukar",
+        "Landsraad"
+    ],
+    "ORG": [
+        "CHOAM",
+        "Spacing Guild",
+        "Guild Bank"
+    ]
+}

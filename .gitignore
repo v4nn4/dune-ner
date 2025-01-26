@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.vscode
+.env
+data/raw/dune.epub
+data/generated
